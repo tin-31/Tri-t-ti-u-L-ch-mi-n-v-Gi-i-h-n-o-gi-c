@@ -8,3 +8,4 @@ pandas
 numpy
 matplotlib
 Pillow
+gdown
